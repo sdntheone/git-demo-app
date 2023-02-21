@@ -11,9 +11,9 @@ with col2:
     Hi, my name is Nitish. I am an educational content creator on YouTube with 50K+ Subscribers in the domain of Data Science. I have been in the tech industry for the past 10 years and taught more than 50,000 students offline. I am passionate about data and take pride in creating content that simplifies complex topics.
     """)
 st.header("course offered")
-st.subheader('data science')
+st.subheader('data science and machine learning')
 st.subheader('data engineer')
-st.subheader('data analyst')
+st.subheader('deep learning')
 st.subheader('sql')
 st.subheader('python')
 
