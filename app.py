@@ -14,5 +14,7 @@ st.header("course offered")
 st.subheader('data science')
 st.subheader('data engineer')
 st.subheader('data analyst')
+st.subheader('sql')
+st.subheader('python')
 
 
