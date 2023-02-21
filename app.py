@@ -22,6 +22,8 @@ st.sidebar.markdown("""
 - home
 - office
 - school
+- carrer
+- login
 """)
 
 
