@@ -17,4 +17,11 @@ st.subheader('deep learning')
 st.subheader('sql')
 st.subheader('python')
 
+st.sidebar.title('welocome to ml model')
+st.sidebar.markdown("""
+- home
+- office
+- school
+""")
+
 
